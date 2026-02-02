@@ -1,3 +1,3 @@
 # portfolio-projetos
 
-## ♟️ [Projetos em Java](https://github.com/macedoamorim/chess-game-java)
+## ♟️ [Jogo de Xadrez em Java](https://github.com/macedoamorim/chess-game-java)
