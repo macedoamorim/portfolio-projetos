@@ -11,5 +11,5 @@ Console-based chess game developed in Java using object-oriented principles.
 
 ---
 
-### 🎓 [School Management System](https://github.com/macedoamorim/school-management-console-java) 
+### 🎓 [School Management System](https://github.com/macedoamorim/student-management-system-java/tree/main) 
 Console-based school management system with student registration, enrollments, and grade management.
